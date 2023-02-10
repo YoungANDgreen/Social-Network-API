@@ -23,7 +23,10 @@ npm install
 
 sql
 
-npm start
+npm start:
+
+![image](https://user-images.githubusercontent.com/110740700/218143867-f6121837-ac88-4e99-ba3c-23aebddb69b0.png)
+
 
 Demo Video:
 
