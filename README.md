@@ -26,6 +26,9 @@ sql
 npm start
 
 Demo Video:
+
+https://www.awesomescreenshot.com/video/14713776?key=bd88bb259e419560c682e786585285a8
+
 A demo video is available for your viewing to gain a deeper understanding of the application's functionality.
 
 License:
