@@ -15,11 +15,11 @@ The development of the NoSQL Social Network API leverages the following technolo
 Setup:
 To run the NoSQL Social Network API locally, follow these steps:
 
-    Install the required packages by running the following command in your terminal:
+    Install the required packages by running the following command in your terminal: npm i
 
 npm install
 
-    Start the application by executing the following command:
+    Start the application by executing the following command: npm run start
 
 sql
 
